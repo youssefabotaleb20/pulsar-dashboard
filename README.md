@@ -3,6 +3,9 @@
 A full-featured SaaS analytics dashboard built with **React + Vite + Tailwind CSS + Chart.js**,
 with a PHP backend for live metrics.
 
+**Live demo:** https://youssefabotaleb20.github.io/pulsar-dashboard/ · Part of [Youssef Abotaleb's portfolio](https://youssefabotaleb20.github.io/Portfolio/)
+
+
 ## Stack
 - **Frontend:** React 18, Vite 5, Tailwind CSS 3, Chart.js 4, react-chartjs-2
 - **Backend:** PHP 8+ (analytics metrics API)
