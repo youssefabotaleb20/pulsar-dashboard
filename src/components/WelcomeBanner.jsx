@@ -40,7 +40,7 @@ export default function WelcomeBanner({ onDismiss }) {
         {/* Footer CTA */}
         <div className="flex flex-col sm:flex-row gap-3">
           <a
-            href="https://linktr.ee/YoussefAbotaleb"
+            href="https://youssefabotaleb20.github.io/Portfolio/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex-1 py-2.5 rounded-lg text-center text-[0.85rem] font-jakarta font-semibold bg-[#00D4FF] text-[#080C10] hover:bg-[#00BFEA] transition-colors duration-150"
